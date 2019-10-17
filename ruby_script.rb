@@ -76,3 +76,9 @@ class Testing
 end
 
 Testing.blah
+
+
+
+# OUTPUT
+#   =>In save
+#   =>In Comment
